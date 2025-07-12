@@ -2,6 +2,9 @@
 
 A content-based movie recommendation engine built using Python, Streamlit, and the OMDb API. Given a movie title, it suggests five similar movies based on precomputed similarity scores and displays their posters using OMDb.
 
+## Dataset
+click here:- https://www.kaggle.com/datasets/aayushmishra1512/apple-complete-stock-data19802020
+
 ---
 
 ## Features
@@ -37,8 +40,7 @@ Edit
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/movie-recommender-system.git
-cd movie-recommender-system
+git clone https://github.com/Rajjuram/Movie-Recommender-System
 2. Create a Virtual Environment (Recommended)
 bash
 Copy
